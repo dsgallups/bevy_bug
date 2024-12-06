@@ -6,4 +6,5 @@ edition = "2021"
 [dependencies]
 bevy = { version = "0.15.0", default-features = false, features = [
     "bevy_gltf",
+    "bevy_animation",
 ] }
